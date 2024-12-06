@@ -11,3 +11,14 @@ alias \
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -vI"
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	ka="killall" \
+	g="git" \
+	trem="transmission-remote" \
+	sdn="shutdown -h now" \
+	xi="sudo xbps-install" \
+	xr="sudo xbps-remove -R" \
+	xq="xbps-query" \
+	z="zathura"
